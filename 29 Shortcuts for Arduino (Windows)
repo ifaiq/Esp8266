@@ -1,0 +1,29 @@
+Ctrl+N	New Sketch
+Ctrl+O	Open Existing Sketch
+Ctrl+S	Save Sketch
+Ctrl+Shift+S	Save As Sketch
+Ctrl+R	Verify
+Ctrl+U	Upload Sketch
+Ctrl+F	Find
+Ctrl+T	Adjust Alignment and Spce
+Ctrl+/	Comment
+Ctrl+K	Open Sketch Folder
+Ctrl+Shift+M	Open Serial Monitor
+Ctrl+Q	Quit
+Ctrl+W	Close
+Ctrl+P	Print
+Ctrl+Shift+P	Page SetUp
+Ctrl+,	Prefernces
+Ctrl+C	Copy
+Ctrl+X	Cut
+Ctrl+V	Paste
+Tab	Increase Indent
+Shift+Tab	Decrease Indent
+Ctrl+L	Go to Line
+Ctrl+A	Select All
+Ctrl+G	Find Next
+Ctrl+Shift+G	Find Previous
+Ctrl+Shift+U	Upload using Programmer
+Ctrl+T	Auto Format
+Ctrl+Shift+L	Serial Plotter
+Ctrl+Shift+F	Find in Reference
